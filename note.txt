@@ -1,0 +1,25 @@
+=======Conditional Statement==========
+if/else
+
+
+if(condition){
+    //Statement....
+}
+
+else if(condition){
+    //Statement...
+}
+
+else if(condition){
+    //Statement...
+}
+
+else{
+    //Statement..
+}
+
+
+Rahim => Bike = I will go to market
+Karim => Cycle = I will go to playground
+Rafiq => Car = I will go to park
+Otherwise => I will go to sleep
